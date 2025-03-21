@@ -2,7 +2,7 @@
     "token": "",
     "language": "en",
     "prefix": "!",
-    "mongodbUri": "mongodb+srv://atlas-sample-dataset-load-67dd0b2c4da949393949fa14:abhay@1500@cluster0.j4s3m.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "mongodbUri": "mongodb+srv://wadaria:wadaria@cluster0.kf2od.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
     "excessCommands": {
         "utility": true,
         "other": true,
